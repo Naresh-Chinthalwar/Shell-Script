@@ -4,4 +4,6 @@ echo "please enter your username"
 
 read Naresh
 
-echo "username entered is: $Naresh"
+echo "please enter your password"
+
+read "Naresh@010203"
