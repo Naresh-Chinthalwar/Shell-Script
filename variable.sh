@@ -3,6 +3,9 @@
 Person1=$1
 Person2=$2
 
+$1=Naresh
+$2=Vineeth
+
 echo "$Person1 : Hi $Person2, Good morning"
 echo "$Person2: Good morning $Person1, How are you?"
 echo "$Person1: Good, What about you?"
