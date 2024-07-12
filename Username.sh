@@ -6,4 +6,4 @@ read Naresh
 
 echo "please enter your password"
 
-read "Naresh@010203"
+readpassword "Naresh@010203"
