@@ -1,8 +1,8 @@
 #!bin/bash
 
-Number1=100
-Number2=200
+Number1=6
+Number2=2
 
-sum=$((Number1+Number2))
+Division=$((Number1/Number2))
 
-echo "Addition of 2 numbers is: $sum"
+echo "Division of 2 numbers is: $Division"
